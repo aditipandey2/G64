@@ -25,7 +25,6 @@ voice-shield/
 ├── G64.pdf              # Final Report
 │── G64.pptx             # Presentation
 │── proposal.pdf         # Project Proposal
-├── requirements.txt         # Python dependencies
 └── README.md
 ```
 
